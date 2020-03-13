@@ -1,0 +1,86 @@
+2019.06.16 17:00:31.594 INFO  Server.Server - Srever starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.16 17:00:31.594 INFO  Server.Server - Srever starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.16 17:00:31.597 INFO  Server.Server - Srever's  strategy: ServerStrategySolveSearchProblem
+2019.06.16 17:00:31.598 INFO  Server.Server - Srever's  strategy: ServerStrategyGenerateMaze
+2019.06.16 17:00:31.598 INFO  Server.Server - Server is waiting for clients
+2019.06.16 17:00:31.598 INFO  Server.Server - Server is waiting for clients
+2019.06.16 17:00:31.611 INFO  Server.Server - Client accepted Socket[addr=/192.168.244.1,port=54920,localport=5400]!
+2019.06.16 17:00:31.618 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.244.1,port=54920,localport=5400]!
+2019.06.16 17:00:31.651 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.244.1,port=54920,localport=5400]!
+2019.06.16 17:00:31.656 INFO  Server.Server - Client accepted Socket[addr=/192.168.244.1,port=54921,localport=5401]!
+2019.06.16 17:00:31.657 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.244.1,port=54921,localport=5401]!
+2019.06.16 17:00:31.768 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.244.1,port=54921,localport=5401]!
+2019.06.16 17:00:31.777 INFO  Server.Server - Stopping server...
+2019.06.16 17:00:31.777 INFO  Server.Server - Stopping server...
+2019.06.16 17:00:32.616 DEBUG Server.Server - Socket timeout - no clients pending!
+2019.06.16 17:00:32.657 DEBUG Server.Server - Socket timeout - no clients pending!
+2019.06.16 17:02:42.828 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.16 17:02:42.832 INFO  Server.Server - Server's  strategy: ServerStrategyGenerateMaze
+2019.06.16 17:02:42.832 INFO  Server.Server - Server is waiting for clients
+2019.06.16 17:02:42.830 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.16 17:02:42.839 INFO  Server.Server - Server's  strategy: ServerStrategySolveSearchProblem
+2019.06.16 17:02:42.839 INFO  Server.Server - Server is waiting for clients
+2019.06.16 17:02:43.324 INFO  Server.Server - Client accepted Socket[addr=/192.168.244.1,port=54930,localport=5400]!
+2019.06.16 17:02:43.327 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.244.1,port=54930,localport=5400]!
+2019.06.16 17:02:43.349 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.244.1,port=54930,localport=5400]!
+2019.06.16 17:02:43.367 INFO  Server.Server - Client accepted Socket[addr=/192.168.244.1,port=54932,localport=5401]!
+2019.06.16 17:02:43.368 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.244.1,port=54932,localport=5401]!
+2019.06.16 17:02:43.543 INFO  Server.Server - Stopping server...
+2019.06.16 17:02:43.544 INFO  Server.Server - Stopping server...
+2019.06.16 17:02:43.536 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.244.1,port=54932,localport=5401]!
+2019.06.16 17:02:44.327 DEBUG Server.Server - Socket timeout - no clients pending!
+2019.06.16 17:02:44.367 DEBUG Server.Server - Socket timeout - no clients pending!
+2019.06.16 17:25:42.536 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.16 17:25:42.541 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.16 17:25:42.541 INFO  Server.Server - Server's  strategy: ServerStrategySolveSearchProblem
+2019.06.16 17:25:42.541 INFO  Server.Server - Server is waiting for clients
+2019.06.16 17:25:42.541 INFO  Server.Server - Server's  strategy: ServerStrategyGenerateMaze
+2019.06.16 17:25:42.542 INFO  Server.Server - Server is waiting for clients
+2019.06.16 17:25:42.548 INFO  Server.Server - Client accepted Socket[addr=/192.168.244.1,port=55012,localport=5400]!
+2019.06.16 17:25:42.554 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.244.1,port=55012,localport=5400]!
+2019.06.16 17:25:42.603 INFO  Server.Server - Maze created. Number of rows:10, number of columns:10
+2019.06.16 17:25:42.604 INFO  Server.Server - Client accepted Socket[addr=/192.168.244.1,port=55013,localport=5401]!
+2019.06.16 17:25:42.604 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.244.1,port=55012,localport=5400]!
+2019.06.16 17:25:42.616 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.244.1,port=55013,localport=5401]!
+2019.06.16 17:25:42.697 INFO  Server.Server - Maze solve successfully by ServerStrategySearchProblem
+2019.06.16 17:25:42.699 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.244.1,port=55013,localport=5401]!
+2019.06.16 17:25:42.704 INFO  Server.Server - Stopping server...
+2019.06.16 17:25:42.704 INFO  Server.Server - Stopping server...
+2019.06.16 17:25:43.551 DEBUG Server.Server - Socket timeout - no clients pending!
+2019.06.16 17:25:43.605 DEBUG Server.Server - Socket timeout - no clients pending!
+2019.06.16 17:46:28.121 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.16 17:46:28.121 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.16 17:46:28.124 INFO  Server.Server - Server's  strategy: ServerStrategyGenerateMaze
+2019.06.16 17:46:28.124 INFO  Server.Server - Server's  strategy: ServerStrategySolveSearchProblem
+2019.06.16 17:46:28.125 INFO  Server.Server - Server is waiting for clients
+2019.06.16 17:46:28.125 INFO  Server.Server - Server is waiting for clients
+2019.06.16 17:46:28.130 INFO  Server.Server - Client accepted Socket[addr=/192.168.244.1,port=55039,localport=5400]!
+2019.06.16 17:46:28.133 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.244.1,port=55039,localport=5400]!
+2019.06.16 17:46:28.153 INFO  Server.Server - Maze created. Number of rows:10, number of columns:10/nMyMazeGenerator
+2019.06.16 17:46:28.155 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.244.1,port=55039,localport=5400]!
+2019.06.16 17:46:28.162 INFO  Server.Server - Client accepted Socket[addr=/192.168.244.1,port=55040,localport=5401]!
+2019.06.16 17:46:28.164 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.244.1,port=55040,localport=5401]!
+2019.06.16 17:46:28.244 INFO  Server.Server - Maze solve successfully by ServerStrategySearchProblem, with the searching algorithm/nBestFirstSearch
+2019.06.16 17:46:28.246 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.244.1,port=55040,localport=5401]!
+2019.06.16 17:46:28.248 INFO  Server.Server - Stopping server...
+2019.06.16 17:46:28.248 INFO  Server.Server - Stopping server...
+2019.06.16 17:46:29.133 DEBUG Server.Server - Socket timeout - no clients pending!
+2019.06.16 17:46:29.163 DEBUG Server.Server - Socket timeout - no clients pending!
+2019.06.16 17:48:07.316 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.16 17:48:07.317 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.16 17:48:07.320 INFO  Server.Server - Server's  strategy: ServerStrategyGenerateMaze
+2019.06.16 17:48:07.320 INFO  Server.Server - Server's  strategy: ServerStrategySolveSearchProblem
+2019.06.16 17:48:07.320 INFO  Server.Server - Server is waiting for clients
+2019.06.16 17:48:07.320 INFO  Server.Server - Server is waiting for clients
+2019.06.16 17:48:07.326 INFO  Server.Server - Client accepted Socket[addr=/192.168.244.1,port=55057,localport=5400]!
+2019.06.16 17:48:07.330 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.244.1,port=55057,localport=5400]!
+2019.06.16 17:48:07.351 INFO  Server.Server - Maze created. Number of rows:10, number of columns:10. Generated by:MyMazeGenerator
+2019.06.16 17:48:07.351 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.244.1,port=55057,localport=5400]!
+2019.06.16 17:48:07.357 INFO  Server.Server - Client accepted Socket[addr=/192.168.244.1,port=55058,localport=5401]!
+2019.06.16 17:48:07.359 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.244.1,port=55058,localport=5401]!
+2019.06.16 17:48:07.438 INFO  Server.Server - Maze solve successfully by ServerStrategySearchProblem, with the searching algorithm: BestFirstSearch
+2019.06.16 17:48:07.439 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.244.1,port=55058,localport=5401]!
+2019.06.16 17:48:07.442 INFO  Server.Server - Stopping server...
+2019.06.16 17:48:07.442 INFO  Server.Server - Stopping server...
+2019.06.16 17:48:08.328 DEBUG Server.Server - Socket timeout - no clients pending!
+2019.06.16 17:48:08.358 DEBUG Server.Server - Socket timeout - no clients pending!
